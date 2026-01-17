@@ -52,6 +52,5 @@ SQL injection detected
 
 ---
 
-## 🧑‍💻 Author
-**Sneha**
+
 
